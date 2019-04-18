@@ -1,0 +1,9 @@
+/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/stage/include/wise_enum/compact_optional.h
+/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/stage/include/wise_enum/optional.h
+/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/stage/include/wise_enum/wise_enum.h
+/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/stage/include/wise_enum/wise_enum_detail.h
+/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/stage/include/wise_enum/wise_enum_generated.h
+/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/stage/lib/cmake/WiseEnum/WiseEnumConfig.cmake
+/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/stage/lib/cmake/WiseEnum/WiseEnumConfigVersion.cmake
+/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/stage/lib/pkgconfig/WiseEnum.pc
+/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/stage/lib/cmake/WiseEnum/WiseEnumTargets.cmake

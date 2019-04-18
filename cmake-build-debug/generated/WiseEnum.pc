@@ -1,0 +1,6 @@
+prefix=/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/stage
+includedir=${prefix}/include
+
+Name: WiseEnum
+Description: wise_enum by quicknir
+Version: 0.1.0

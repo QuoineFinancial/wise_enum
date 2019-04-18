@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="WiseEnum"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\ruslo\;CMake Files\..\..\ruslo\polly\;CMake Files\..\..\ruslo\polly\utilities\;CMake Files\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example">
+				<Option output="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 example"/>
+					<CompileFile command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example/fast">
+				<Option output="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 example/fast"/>
+					<CompileFile command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example11">
+				<Option output="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/example11" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 example11"/>
+					<CompileFile command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example11/fast">
+				<Option output="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/example11" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 example11/fast"/>
+					<CompileFile command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j48 -f &quot;/home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/richardhodges/github/QuoineFinancial/wise_enum/example.x.cpp">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/home/richardhodges/github/QuoineFinancial/wise_enum/example11.x.cpp">
+			<Option target="example11"/>
+		</Unit>
+		<Unit filename="/home/richardhodges/github/QuoineFinancial/wise_enum/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/richardhodges/github/QuoineFinancial/wise_enum/../../ruslo/polly/cxx17.cmake">
+			<Option virtualFolder="CMake Files\..\..\ruslo\polly\"/>
+		</Unit>
+		<Unit filename="/home/richardhodges/github/QuoineFinancial/wise_enum/../../ruslo/polly/utilities/polly_common.cmake">
+			<Option virtualFolder="CMake Files\..\..\ruslo\polly\utilities\"/>
+		</Unit>
+		<Unit filename="/home/richardhodges/github/QuoineFinancial/wise_enum/../../ruslo/polly/utilities/polly_fatal_error.cmake">
+			<Option virtualFolder="CMake Files\..\..\ruslo\polly\utilities\"/>
+		</Unit>
+		<Unit filename="/home/richardhodges/github/QuoineFinancial/wise_enum/../../ruslo/polly/utilities/polly_module_path.cmake">
+			<Option virtualFolder="CMake Files\..\..\ruslo\polly\utilities\"/>
+		</Unit>
+		<Unit filename="/home/richardhodges/github/QuoineFinancial/wise_enum/../../ruslo/polly/utilities/polly_status_debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\ruslo\polly\utilities\"/>
+		</Unit>
+		<Unit filename="/home/richardhodges/github/QuoineFinancial/wise_enum/../../ruslo/polly/utilities/polly_status_print.cmake">
+			<Option virtualFolder="CMake Files\..\..\ruslo\polly\utilities\"/>
+		</Unit>
+		<Unit filename="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake/Config.cmake.in">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/richardhodges/github/QuoineFinancial/wise_enum/cmake/WiseEnum.pc.in">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

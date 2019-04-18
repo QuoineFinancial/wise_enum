@@ -1,0 +1,5 @@
+/home/richardhodges/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.6707.62/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DBUILD_EXAMPLES=ON -DBUILD_TESTS=ON -DCMAKE_INSTALL_PREFIX=stage -DCMAKE_TOOLCHAIN_FILE=/home/richardhodges/github/ruslo/polly/cxx17.cmake -G "CodeBlocks - Unix Makefiles" /home/richardhodges/github/QuoineFinancial/wise_enum
+-- [polly] Used toolchain: C++17 support
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/richardhodges/github/QuoineFinancial/wise_enum/cmake-build-debug
